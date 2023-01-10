@@ -1,0 +1,228 @@
+{
+  "products": [
+    {
+      "name": "Комбо на одного острый",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "111",
+      "picture": "https://www.kfc.kg/admin/files/4977.png",
+      "type": "Комбо",
+      "id": 1
+    },
+    {
+      "name": "Комбо на одного обычный",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "487",
+      "picture": "https://www.kfc.kg/admin/files/4977.png",
+      "type": "Комбо",
+      "id": 2
+    },
+    {
+      "name": "Комбо на двоих острый",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "836",
+      "picture": "https://www.kfc.kg/admin/files/4978.png",
+      "type": "Комбо",
+      "id": 3
+    },
+    {
+      "name": "Комбо на двоих обычный",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "836",
+      "picture": "https://www.kfc.kg/admin/files/4978.png",
+      "type": "Комбо",
+      "id": 4
+    },
+    {
+      "name": "Комбо на семью острый",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "836",
+      "picture": "https://www.kfc.kg/admin/files/4978.png",
+      "type": "Комбо",
+      "id": 5
+    },
+    {
+      "name": "Комбо на семью обычный",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "836",
+      "picture": "https://www.kfc.kg/admin/files/4978.png",
+      "type": "Комбо",
+      "id": 6
+    },
+    {
+      "name": "Комбо 4 в одном",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "1198",
+      "picture": "https://dostavka312.kg/public/public/photo/624718cca12b2.png",
+      "type": "Комбо",
+      "id": 7
+    },
+    {
+      "name": "Комбо на одного",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "118",
+      "picture": "https://static.takeaway.com/images/chains/at/kfc_wien/products/twister_wrap_menu.png?timestamp=1672485641",
+      "type": "Комбо",
+      "id": 8
+    },
+    {
+      "name": "Комбо на одного",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "118",
+      "picture": "https://static.takeaway.com/images/chains/at/kfc_wien/products/twister_wrap_menu.png?timestamp=1672485641",
+      "type": "Комбо",
+      "id": 9
+    },
+    {
+      "name": "Комбо с десертом",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "220",
+      "picture": "https://www.pngplay.com/wp-content/uploads/9/KFC-PNG-Images-HD.png",
+      "type": "Комбо",
+      "id": 10
+    },
+    {
+      "name": "Комбо с десертом",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "220",
+      "picture": "https://www.pngplay.com/wp-content/uploads/9/KFC-PNG-Images-HD.png",
+      "type": "Комбо",
+      "id": 11
+    },
+    {
+      "name": "Комбо + SNICKERS",
+      "description": "Встречайте вкусное комбо на одного человека: острый твистер, сочная ножка, хрустящий картофель фри, освежающий напиток пепси, соус на выбор.",
+      "price": "190",
+      "picture": "https://kfs-menu.ru/images/menu/lanchbasket-5-za-300.jpg",
+      "type": "Комбо",
+      "id": 12
+    },
+    {
+      "name": "Баскет обычный",
+      "description": "Баскет от Полковника Сандерса! Ножка, 2 крыла, 2 стрипса оригинальных или острых , байтсы 63 г.",
+      "price": "290",
+      "picture": "https://www.kfc.kg/admin/files/4963.png",
+      "type": "Баскет",
+      "id": 13
+    },
+    {
+      "name": "Баскет с ножками",
+      "description": "Всемирно известные хиты от KFC в нашем Баскете! Сочные кусочки курицы: 2 ножки, 4 куриных крылышка*, 4 стрипса в оригинальной панировке, 1",
+      "price": "355",
+      "picture": "https://www.seekpng.com/png/detail/833-8339070_der-aufruf-chicken-hot-wings-kfc.png",
+      "type": "Баскет",
+      "id": 15
+    },
+    {
+      "name": "Баскет острые ножки",
+      "description": "Всемирно известные хиты от KFC в нашем Баскете! Сочные кусочки курицы: 2 ножки, 4 куриных крылышка*, 4 стрипса в оригинальной панировке, 1",
+      "price": "310",
+      "picture": "https://i2-prod.mirror.co.uk/incoming/article22250685.ece/ALTERNATES/s1200c/0_Bucket.png",
+      "type": "Баскет",
+      "id": 16
+    },
+    {
+      "name": "Баскет Жаренные Ножки",
+      "description": "Всемирно известные хиты от KFC в нашем Баскете! Сочные кусочки курицы: 2 ножки, 4 куриных крылышка*, 4 стрипса в оригинальной панировке, 1",
+      "price": "567",
+      "picture": "https://www.pngmart.com/files/15/KFC-Food-Plate-Top-View-PNG.png",
+      "type": "Баскет",
+      "id": 20
+    },
+    {
+      "name": "Баскет Курочка",
+      "description": "Всемирно известные хиты от KFC в нашем Баскете! Сочные кусочки курицы: 2 ножки, 4 куриных крылышка*, 4 стрипса в оригинальной панировке, 1",
+      "price": "780",
+      "picture": "https://www.pngkey.com/png/full/52-527002_kfc-chicken-bucket-png-kfc-full-menu-nz.png",
+      "type": "Баскет",
+      "id": 21
+    },
+    {
+      "name": "Pepsi 0,3 ",
+      "description": "Пепси со льдом",
+      "price": "65",
+      "picture": "https://www.kfc.kg/admin/files/5027.png",
+      "type": "Напитки",
+      "id": 24
+    },
+    {
+      "name": "Pepsi 0,3 ",
+      "description": "Пепси со льдом",
+      "price": "65",
+      "picture": "https://www.kfc.kg/admin/files/5027.png",
+      "type": "Напитки",
+      "id": 24
+    },
+    {
+      "name": "Pepsi 0,4 ",
+      "description": "Пепси со льдом",
+      "price": "72",
+      "picture": "https://www.kfc.kg/admin/files/5027.png",
+      "type": "Напитки",
+      "id": 25
+    },
+    {
+      "name": "Миринд 0,3",
+      "description": "Миринда со льдом",
+      "price": "65",
+      "picture": "https://www.kfc.kg/admin/files/5031.png",
+      "type": "Напитки",
+      "id": 27
+    },
+    {
+      "name": "Миринда 0,4",
+      "description": "Миринда со льдом",
+      "price": "72",
+      "picture": "https://www.kfc.kg/admin/files/5031.png",
+      "type": "Напитки",
+      "id": 28
+    },
+    {
+      "name": "Миринда 0,5",
+      "description": "Миринда со льдом",
+      "price": "78",
+      "picture": "https://www.kfc.kg/admin/files/5031.png",
+      "type": "Напитки",
+      "id": 29
+    },
+    {
+      "name": "Миринда 0,5",
+      "description": "Миринда со льдом",
+      "price": "78",
+      "picture": "https://www.kfc.kg/admin/files/5031.png",
+      "type": "Напитки",
+      "id": 30
+    },
+    {
+      "name": "Севен Ап 0,4",
+      "description": "Севен Ап со льдом",
+      "price": "72",
+      "picture": "https://pro-dostavku.ru/wp-content/uploads/2019/11/7up.png",
+      "type": "Напитки",
+      "id": 31
+    },
+    {
+      "name": "Севен Ап 0,5",
+      "description": "Севен Ап со льдом",
+      "price": "78",
+      "picture": "https://pro-dostavku.ru/wp-content/uploads/2019/11/7up.png",
+      "type": "Напитки",
+      "id": 32
+    },
+    {
+      "name": "Севен Ап 0,5",
+      "description": "Севен Ап со льдом",
+      "price": "78",
+      "picture": "https://pro-dostavku.ru/wp-content/uploads/2019/11/7up.png",
+      "type": "Напитки",
+      "id": 33
+    },
+    {
+      "name": "222yjsrthth",
+      "description": "2rsjsryjsr",
+      "price": "2ryjrsjryj",
+      "picture": "22yjsryjrsyj",
+      "type": "223rgq3rgqrjs",
+      "id": 34
+    }
+  ]
+}
