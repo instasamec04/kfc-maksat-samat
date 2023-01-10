@@ -257,7 +257,7 @@ export default function Navbar() {
                   sx={{
                     color: "white",
                     backgroundColor: "#e4002b",
-                    borderRadius: "5px",
+                    borderRadius: "6px",
                     textAlign: "center",
                   }}
                 >
